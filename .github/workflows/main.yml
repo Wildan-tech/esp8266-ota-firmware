@@ -33,3 +33,4 @@ jobs:
         with:
           name: firmware-bin
           path: build/main.ino.bin
+          // Trigger GitHub Actions
